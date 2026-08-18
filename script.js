@@ -59,7 +59,7 @@ function showFinalPage() {
         <div class="final-page">
 
             <div class="heart big">❤️</div>
-            <img src="lumla.jpeg.jpeg" class="lumla-photo">
+            <img src="lumla.jpeg" class="lumla-photo">
             <h1>My dear Lumla</h1>
 
             <p class="final-text">
